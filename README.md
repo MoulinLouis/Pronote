@@ -39,3 +39,5 @@ Design
 
 ## Auteur
 * **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/Playfade)
+* **Damien Da Fonseca** - *Travail Initial* - [Zeenshok](https://github.com/DaFonsecaDamien)
+
