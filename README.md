@@ -38,6 +38,6 @@ Design
   ![Progress4](http://progressed.io/bar/50?title=progress)
 
 ## Auteur
-* **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/Playfade)
+* **Louis Moulin** - *Travail Initial* - [Playfade](https://github.com/MoulinLouis)
 * **Damien Da Fonseca** - *Travail Initial* - [Zeenshok](https://github.com/DaFonsecaDamien)
 
